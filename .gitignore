@@ -1,0 +1,6 @@
+# binaries
+out/*
+
+# idea
+cyclic-decoding.iml
+.idea/*
