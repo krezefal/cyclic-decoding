@@ -2,5 +2,5 @@
 out/*
 
 # idea
-cyclic-decoding.iml
+*.iml
 .idea/*
